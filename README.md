@@ -1,5 +1,5 @@
 # FreeCodeCamp course: Data Analysis with Python
-## Project 4: Sea Level Predictor
+## Project 5: Sea Level Predictor
 
 This is the solution of the Sea Level Predictor project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor
 
